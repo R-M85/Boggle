@@ -6,7 +6,7 @@ This implementation of this classic word finding game is written in C#.net (Wind
 
 Features:
 
--Supported languages so far: English / Dutch / French
+-Supported languages so far: English / Dutch / French / German
 
 -Play on a custom-sized Boggle field (maximum field size: 20 by 20)
 
